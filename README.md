@@ -1,7 +1,11 @@
 ##Install dependency
 
-### npm install
+```
+npm install
+```
 
-##To run app type
+##To run app
 
-###npm start
+```
+npm start
+```
